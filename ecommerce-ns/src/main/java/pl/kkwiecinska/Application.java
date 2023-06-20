@@ -1,10 +1,10 @@
-package pl.jkanclerz;
+package pl.kkwiecinska;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
-import pl.jkanclerz.catalog.HashMapProductStorage;
-import pl.jkanclerz.catalog.ProductCatalog;
+import pl.kkwiecinska.catalog.HashMapProductStorage;
+import pl.kkwiecinska.catalog.ProductCatalog;
 
 import java.math.BigDecimal;
 

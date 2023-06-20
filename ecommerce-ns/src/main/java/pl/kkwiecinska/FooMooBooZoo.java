@@ -1,4 +1,4 @@
-package pl.jkanclerz;
+package pl.kkwiecinska;
 
 public class FooMooBooZoo {
     public String greet(String name) {

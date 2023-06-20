@@ -1,4 +1,4 @@
-package pl.jkanclerz.catalog;
+package pl.kkwiecinska.catalog;
 
 import java.math.BigDecimal;
 import java.util.UUID;

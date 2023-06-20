@@ -1,4 +1,4 @@
-package pl.jkanclerz;
+package pl.kkwiecinska;
 
 import java.util.ArrayList;
 import java.util.Arrays;

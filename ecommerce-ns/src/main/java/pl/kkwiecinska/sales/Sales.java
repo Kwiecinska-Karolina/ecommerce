@@ -1,4 +1,4 @@
-package pl.jkanclerz.sales;
+package pl.kkwiecinska.sales;
 
 public class Sales {
     public void addToCart(String customerId, String productId) {

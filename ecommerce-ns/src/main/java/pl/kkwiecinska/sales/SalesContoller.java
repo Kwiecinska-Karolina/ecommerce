@@ -1,4 +1,4 @@
-package pl.jkanclerz.sales;
+package pl.kkwiecinska.sales;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
